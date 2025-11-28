@@ -1,0 +1,8 @@
+target/
+bin/
+test-output/
+reports/
+screenshots/
+.idea/
+*.class
+*.log
